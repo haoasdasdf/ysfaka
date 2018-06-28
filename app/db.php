@@ -8,5 +8,4 @@
     'prefix'=>'ys_',
     'driver'=>'pdo',
     'debug'=>true,
-    'serive_token' => 'ysfk2018'  //系统清理token
 ];
